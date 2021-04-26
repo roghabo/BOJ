@@ -1,8 +1,6 @@
 e, s, m = map(int, input().split())
 result = 0
-i = 0
-j = 0
-k = 0
+i,j,k=0,0,0
 while True:
     if(i == 15):
         i = 1
